@@ -17,7 +17,7 @@ This project requires the following modules/programs:
 * dendextend (v.1.7.0)
 * [Cell Ranger](https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/what-is-cell-ranger) (v2.0.2)
 * [Seurat](https://satijalab.org/seurat) (v2.1)
-* [MAST](https://www.bioconductor.org/packages/release/bioc/html/MAST.html)
+* [MAST](https://www.bioconductor.org/packages/release/bioc/html/MAST.html) (1.8.2)
 
 INSTALLATION
 ------------
@@ -25,6 +25,7 @@ INSTALLATION
 * You can follow the instructions for [our mapping pipeline](https://github.com/vijaybioinfo/cellranger_wrappeR) using Cell Ranger.
 * For the single-cell quality control just pull [our in-house script](https://github.com/vijaybioinfo/quality_control).
 * Clustering of single-cell data with [our pipeline](https://github.com/vijaybioinfo/clustering) using Seurat.
+* You can pull our [in-house pipeline](https://github.com/ndu-UCSD/LJI_RNA_SEQ_PIPELINE_V2) for mapping bulk data.
 
 Global description
 ------------
